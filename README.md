@@ -15,3 +15,8 @@ The project is associated with a tutorial (both a free and paid version). The fr
 The original source code is available on GitHub, but please only use it as a point of comparison after you have exhausted all other options.
 
 When you have found all eight errors (one of them is on multiple lines), commit your changes, and turn in the URL of your repository on Canvas.
+
+1. changed new_score to new_value in playerdata.gd
+2. Indentation for Portal2D
+3. lowercase text on UserInterface.gd
+4. player.gd playerdata.deaths += 1
