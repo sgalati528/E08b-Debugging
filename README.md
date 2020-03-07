@@ -20,3 +20,7 @@ When you have found all eight errors (one of them is on multiple lines), commit 
 2. Indentation for Portal2D
 3. lowercase text on UserInterface.gd
 4. player.gd playerdata.deaths += 1
+5. lowercase m for "move_right"
+6. Sprite is visible for enemy
+7.lowercase s for playerdata.score in endscreen.gd
+8. reset functions commented out
